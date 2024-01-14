@@ -1,3 +1,3 @@
-sFLD, FLD3 and SFM nonlinear (SFM_A) methods are from Cendrero-Mateo et al. (2019). 
+sFLD, FLD3,iFLD and SFM nonlinear (SFM_A) methods are from Cendrero-Mateo et al. (2019). Please cite Cendrero-Mateo et al. (2019) when you use the above methods. 
 
 Cendrero-Mateo, M. P. et al. Sun-induced chlorophyll fluorescence III: Benchmarking 780 retrieval methods and sensor characteristics for proximal sensing. Remote Sens. 11, 781 962 (2019).
